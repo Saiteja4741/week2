@@ -1,2 +1,3 @@
 print("heelo ")
-print("visw")
+print("wo")
+
